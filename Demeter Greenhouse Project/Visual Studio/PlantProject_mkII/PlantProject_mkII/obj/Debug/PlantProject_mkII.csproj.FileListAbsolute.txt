@@ -1,0 +1,21 @@
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.exe.config
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.exe
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.pdb
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.csprojAssemblyReference.cache
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.frmPlantProject.resources
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.Properties.Resources.resources
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.csproj.GenerateResource.cache
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.exe
+D:\Coding\Visual Studio Code\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.pdb
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.exe.config
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.exe
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\bin\Debug\PlantProject_mkII.pdb
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.csprojAssemblyReference.cache
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.frmPlantProject.resources
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.Properties.Resources.resources
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.csproj.GenerateResource.cache
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.exe
+D:\Coding\Visual Studio Code\CPT\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.pdb
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Plant_Project_Compressed\Plant_Project_Compressed\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.csprojAssemblyReference.cache
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Plant_Project_Compressed\Plant_Project_Compressed\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.exe
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Plant_Project_Compressed\Plant_Project_Compressed\PlantProject_mkII\PlantProject_mkII\obj\Debug\PlantProject_mkII.pdb
